@@ -14,6 +14,8 @@ The Mobile Enterprise Dashboard is an interactive Power BI analytics solution de
 
 4.To provide business-ready insights that can support marketing, distribution, and product strategy decisions.
 
+5. To analyze the trends of the sales over the years from 2021 to 2024 and highlight customer favourite brands and making decisions accordingly.
+
 🛠️ Tools & Technologies
 
 Power BI Desktop – for data modeling, visualization, and dashboard development.
@@ -44,5 +46,5 @@ DAX (Data Analysis Expressions) – for calculated columns, KPIs, and performanc
 4.Supports strategic business decisions in sales optimization and market targeting.
 
 Screenshot/Demo
-
+![Dashboard Preview](https://github.com/rishidas133/Mobile-Enterprise-dashboard/blob/main/Snapshot%20Mobile%20enterprise%20dashboard.png)
 
